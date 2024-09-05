@@ -1,0 +1,18 @@
+body {
+    background: gainsboro;
+}
+
+.home {
+    background: url(../images/joanna-kosinska-unsplash.jpg) no-repeat;
+    background-size: cover;
+}
+
+.home .content-wrapper {
+    background-color: rgb(255 255 255 / 0.9);
+}
+
+.btn {
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: blueviolet;
+}
